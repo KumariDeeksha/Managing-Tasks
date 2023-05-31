@@ -1,0 +1,19 @@
+{
+  "name": "managing-tasks",
+  "version": "1.0.0",
+  "description": "Task Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KumariDeeksha/Managing-Tasks.git"
+  },
+  "author": "Kumari Deeksha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KumariDeeksha/Managing-Tasks/issues"
+  },
+  "homepage": "https://github.com/KumariDeeksha/Managing-Tasks#readme"
+}
